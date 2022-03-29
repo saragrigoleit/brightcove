@@ -1,4 +1,4 @@
-<link href="https://players.brightcove.net/videojs-overlay/2/videojs-overlay.css" rel='stylesheet'>
+<link href="https://github.com/saragrigoleit/brightcove/blob/7a9da77a2cb74bfb6b859cb24f5072a38109a8b5/style.css" rel='stylesheet'>
 
 
 
