@@ -1,3 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+<style>
 .video-js .vjs-overlay {
 	color:#fff;
 	position:relative;
@@ -69,3 +75,11 @@
 .video-js .vjs-no-flex .vjs-overlay-left,.video-js .vjs-no-flex .vjs-overlay-center,.video-js .vjs-no-flex .vjs-overlay-right {
 	margin-top:-15px
 	}
+
+</style>
+</head>
+
+<body>
+</body>
+
+</html>
